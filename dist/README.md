@@ -1,5 +1,5 @@
 
-  # Mohamed
+  # Rebirth Island
   
   ## Table-of-Contents
   * [Description](#description)
@@ -10,19 +10,19 @@
   * [Tests](#tests)
   * [Questions](#questions)
   ## Description
-  abcdefghijklmnopqrstuvwxyz
+  Rebirth is a game in which teams battle until there is only one left.
   ## Installation
-  git add, git clone, run npm install
+  Git clone, npm install, node index.js
   ## Usage
-  see video
+  Usage is for entertainment purposes only.
   
   ## How to Contribute
-  12345678
+  contribute through email suggestions only.
   ## Tests
   
-  test with coding the read me
+  Test project on indiviual servers only.
   ## Questions
   Feel free to reach out with any questions!
   GitHub: [mo9399](https://github.com/mo9399)
   
-  Email: [mohamed@yahoo.com](mailto:mohamed@yahoo.com)
+  Email: [mo9399@hotmail.com](mailto:mo9399@hotmail.com)
