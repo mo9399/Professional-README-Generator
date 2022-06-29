@@ -22,6 +22,10 @@ A command-line application that generates a professional README.md file from a u
 
 ![Video demonstration of how to use the app](media/professional-README-generator.mp4)
 
+## Demo
+
+![video demonstration of app usage](media/professional-README-generator.gif)
+
 ## Contribution
 
 Made by Mohamed Abdullahi
